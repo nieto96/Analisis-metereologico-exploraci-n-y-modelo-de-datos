@@ -1,7 +1,6 @@
 # Analisis-metereologico-exploraci-n-y-modelo-de-datos
-Entrega analisis de datos metereologico
-## 📊 Dataset
+## 📊 Análisis meteorológico: Exploración y modelado de datos
 
-Puedes descargar el archivo Excel aquí:
+Puedes descargar el archivo Excel del proyecto aquí:
 
-[Descargar archivo Excel](Analisis-metereologico-exploraci-n-y-modelo-de-datos)
+[📥 Descargar análisis meteorológico (Excel)](./Analisis%20metereologico_%20exploraci%C3%B2n%20y%20modelado%20de%20datos.xlsx)
