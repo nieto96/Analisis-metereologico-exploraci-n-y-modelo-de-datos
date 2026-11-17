@@ -4,4 +4,4 @@ Entrega analisis de datos metereologico
 
 Puedes descargar el archivo Excel aquí:
 
-[Descargar archivo Excel](./Analisis-metereologico-exploraci-n-y-modelo-de-datos.xlsx)
+[Descargar archivo Excel](Analisis-metereologico-exploraci-n-y-modelo-de-datos)
